@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+CREATE DATABASE IF NOT EXISTS alx_book_store
 import mysql.connector
 from mysql.connector import errorcode
 
